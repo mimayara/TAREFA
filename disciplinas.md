@@ -2,7 +2,9 @@
 ## 
 # - Criatividade e inovação 
 #
+#
 ## A disciplina de Criatividade e Inovação explora o nexo entre o pensamento disruptivo e a resolução técnica de problemas. No contexto da Engenharia de Software, ela foca em desconstruir padrões mentais rígidos para viabilizar a criação de soluções tecnológicas que não sejam apenas funcionais, mas que entreguem valor real e resolvam dores latentes dos usuários.
+#
 #
 # - Lógica computacional
 ## A disciplina de Lógica Computacional é o alicerce fundamental para o desenvolvimento de software. Ela estuda as estruturas de raciocínio formal e as regras matemáticas que permitem traduzir problemas do mundo real em sequências de instruções lógicas que um processador pode executar com precisão.
